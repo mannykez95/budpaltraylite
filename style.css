@@ -85,3 +85,28 @@ p {
     width: 90%;
   }
 }
+.preview {
+  text-align: center;
+  padding: 40px 20px;
+  background-color: #111;
+  color: #fff;
+  border-top: 1px solid #444;
+}
+.preview h2 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+.tray-image {
+  width: 90%;
+  max-width: 600px;
+  border-radius: 8px;
+  box-shadow: 0 0 20px #00ff99;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #000;
+  color: #777;
+  font-size: 0.9rem;
+}
